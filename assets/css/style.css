@@ -1,0 +1,93 @@
+body{
+    background-color: rgb(49,74,96);
+}
+
+.container{
+    height: 1em;
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: space-evenly;
+    align-items: space-evenly;
+}
+
+.items{
+    width: 20em;
+    margin: 1em;
+    justify-content: space-evenly;
+    align-items: space-evenly;
+    background-color: #fff;
+}
+
+.imgCards{
+    height: 18em;
+    background-color:#fff;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    
+}
+
+.text{
+    height: 24em;
+    width: 100%;
+    justify-content: center;
+    background-color: rgb(137,109,47);
+}
+
+.text2{
+    height: 100%;
+    padding: 2em;
+}
+
+.special{
+    background-color:rgb(200,2,1)  ;
+}
+p{
+    color: #fff;
+}
+
+.span{
+    font-size: 2.5em;
+    font-weight: 400;
+}
+
+.span2{
+    font-size: 3em;
+    font-weight: 600;
+}
+#racaillou{
+    background-image: url(../img/téléchargement\ \(1\).jpg);  
+}
+
+#gravalanch{
+    background-image: url(../img/téléchargement.jpg);
+}
+
+#grolem{
+    background-image: url(../img/076.png);
+}
+
+#fantominus{
+    background-image: url(../img/téléchargement\ \(3\).jpg);
+}
+
+#spectrum{
+    background-image: url(../img/téléchargement\ \(4\).jpg);
+}
+
+#ectoplasma{
+    background-image: url(../img/094.png);
+}
+
+#machoc{
+    background-image: url(../img/téléchargement\ \(2\).jpg);
+}
+
+#machopeur{
+    background-image: url(../img/Machopeur-EdC.png);
+}
+
+#mackogneur{
+    background-image: url(../img/068.png);
+}
